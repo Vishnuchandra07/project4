@@ -1,0 +1,5 @@
+Add your resume PDF here as: resume.pdf
+
+Then the Download Resume button will work automatically.
+
+Or use an online link — edit resumePath in src/data/portfolio.js
